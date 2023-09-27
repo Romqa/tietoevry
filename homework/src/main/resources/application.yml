@@ -1,0 +1,6 @@
+server.port: 8088
+
+weather-com-api:
+  url: http://weather.com/api
+  username: username
+  password: password #todo: encrypt password
