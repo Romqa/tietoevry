@@ -65,4 +65,5 @@ Example:
 - [ ] More tests
 - [ ] Add @ControllerAdvice for exception handling
 - [ ] Add WireMock for testing using WeatherComApi
+- [ ] Add logging, metrics, swagger..
 - [ ] Todos inside the code
